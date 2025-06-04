@@ -65,7 +65,7 @@ params:
             - name: Papers
               url: papers/
             - name: Data
-              url: data/
+              url: tags/
             #- name: Books
             #  url: books/
             #- name: Courses
