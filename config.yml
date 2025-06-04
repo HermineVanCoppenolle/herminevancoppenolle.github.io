@@ -62,18 +62,18 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: tags/
+            #- name: Papers
+            #  url: papers/
+            #- name: Data
+            #  url: data/_index/
             #- name: Books
             #  url: books/
             #- name: Courses
             #  url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            #- name: Tags
+            #  url: tags/
+            #- name: Archive
+            #  url: archive/
             - name: GIES
               url: https://www.ugent.be/ps/politiekewetenschappen/gies/en/team/phdresearchers/herminevancoppenolle.htm
 
