@@ -1,7 +1,7 @@
 ---
 title: "The Power of Peers: a spatial analysis of nationally determined contributions" 
 date: 2025-04-12
-url: /paper/2025VanCoppenolle/
+url: /papers/2025VanCoppenolle/
 tags: ["Paris Agreement","pledge-and-review","climate governance","peer groups","climate ambition","spatial regression"]
 author: ["Hermine Van Coppenolle"]
 description: "Using spatial regression analysis, this paper analyses whether countries' climate ambition levels are related to those of their peers." 
