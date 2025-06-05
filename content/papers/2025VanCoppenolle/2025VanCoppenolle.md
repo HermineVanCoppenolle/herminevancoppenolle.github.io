@@ -7,7 +7,7 @@ author: ["Hermine Van Coppenolle"]
 description: "Using spatial regression analysis, this paper analyses whether countries' climate ambition levels are related to those of their peers." 
 summary: "Using spatial regression analysis, this paper analyses whether countries' climate ambition levels are related to those of their peers. It finds that countries' ambition levels converge with that of countries with similar levels of democracy, geopolitical affinity, and region, whereas ambition levels diverge between peer groups based on level of development."
 cover:
-    image: "cover.jpg"
+    image: "/papers/2025VanCoppenolle/cover.jpg"
     alt: "cover and abstract of the paper"
     relative: true
 editPost:
