@@ -62,6 +62,8 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: CV
+              url: cv.pdf
             - name: Papers
               url: papers/
             #- name: Data
@@ -79,8 +81,8 @@ params:
 
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        #- name: CV
+        #  url: cv.pdf
         - name: Email
           url: mailto:hermine.vancoppenolle@ugent.be
         - name: Location
@@ -97,6 +99,8 @@ params:
 #          url: https://www.youtube.com/@pmichaillat
 #        - name: Twitter
 #          url: https://x.com/pmichaillat
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/hermine-van-coppenolle-971a06178/
         - name: Bluesky
           url: https://bsky.app/profile/herminevc.bsky.social
 
