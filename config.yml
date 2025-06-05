@@ -33,7 +33,7 @@ menu:
 params:
     description: "This website hosts Hermine Van Coppenolle's research papers, books, course materials, data, curriculum vitae, and contact information."
     author: Hermine Van Coppenolle
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-7GG4G7D1VK"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
