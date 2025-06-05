@@ -18,7 +18,7 @@ editPost:
 
 - [Open Access Article](2023_VanCoppenolle.pdf)
 - [net zero targets dataset](https://doi.org/10.5281/zenodo.6644988)
-- [Proquest searches of climate targets](https://doi.org/10.5281/zenodo.6645030)
+- [Proquest searches of climate norms](https://doi.org/10.5281/zenodo.6645030)
 
 ---
 
