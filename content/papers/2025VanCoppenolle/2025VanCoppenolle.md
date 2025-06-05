@@ -6,10 +6,6 @@ tags: ["Paris Agreement","pledge-and-review","climate governance","peer groups",
 author: ["Hermine Van Coppenolle"]
 description: "Using spatial regression analysis, this paper analyses whether countries' climate ambition levels are related to those of their peers." 
 summary: "Using spatial regression analysis, this paper analyses whether countries' climate ambition levels are related to those of their peers. It finds that countries' ambition levels converge with that of countries with similar levels of democracy, geopolitical affinity, and region, whereas ambition levels diverge between peer groups based on level of development."
-cover:
-    image: "/papers/2025VanCoppenolle/cover.jpg"
-    alt: "cover and abstract of the paper"
-    relative: true
 editPost:
     URL: "https://doi.org/10.1080/14693062.2025.2489738"
     Text: "Climate Policy"
@@ -31,6 +27,8 @@ editPost:
 The Paris Agreement’s pledge and review process was designed to ramp up climate ambition through norm-setting and repeated interactions. Yet this peer influence dynamic remains underexplored in analyses of the determinants of climate ambition. To address this gap, this paper examines whether the climate ambition of peer countries can explain climate ambition in subsequent rounds of Nationally Determined Contributions (NDCs). This paper builds on and contributes to research on the Paris Agreement, the drivers of climate ambition, and the broader literature on soft governance. Using spatial regression models, the analysis incorporates peer pressure into spatial lags of first-round NDC ambition to assess patterns of convergence and divergence in the second round of NDCs. The results show that climate ambition for peer groups with high geopolitical affinity, similar levels of democracy, and regional similarity converges, while countries with similar income levels exhibit diverging ambition trends. These results underscore the interdependent nature of climate ambition and suggest that leveraging peer networks could enhance global climate cooperation under the Paris Agreement.
 
 ---
+
+
 
 ##### Citation
 
