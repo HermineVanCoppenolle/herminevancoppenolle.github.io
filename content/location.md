@@ -1,19 +1,8 @@
 ---
 title: "Location"
-date: 2024-05-08
+date: 2025-06-13
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
-
----
-
----
-
-#### Mailing address
-
-Hermine Van Coppenolle  
-Ghent Institute for European and International Studies  
-Ghent University  
-Ghent, Belgium
+description: "Hermine Van Coppenolle's office addresses at the Ghent Institute for International and European Studies."
 
 ---
 
