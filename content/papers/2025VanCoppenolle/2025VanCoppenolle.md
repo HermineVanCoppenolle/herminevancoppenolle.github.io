@@ -19,6 +19,7 @@ editPost:
 - [Author manuscript](AM_2025_VanCoppenolle.pdf)
 - [Supplementary data](AM_SD_2025_VanCoppenolle.pdf)
 - [Code and data](https://doi.org/10.5281/zenodo.12705494)
+- [interactive map](https://herminevancoppenolle.shinyapps.io/shiny_app/) (might take a second to load before you can explore the peer groups)
 
 ---
 
