@@ -84,9 +84,9 @@ params:
         #- name: CV
         #  url: cv.pdf
         - name: Email
-          url: mailto:hermine.vancoppenolle@ugent.be
-        - name: Location
-          url: location/
+          url: mailto:hvv21@cam.ac.uk
+#        - name: Location
+#          url: location/
 #        - name: Office Hours
 #          url: officehours/
         - name: Google Scholar
