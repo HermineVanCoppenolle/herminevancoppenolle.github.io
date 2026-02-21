@@ -16,7 +16,7 @@ editPost:
 
 ##### Download:
 
-- [Article](2023_VanCoppenolle.pdf)
+- [Article](2026_VanCoppenolle.pdf)
 
 
 ---
