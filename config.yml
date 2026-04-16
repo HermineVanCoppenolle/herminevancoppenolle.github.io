@@ -57,8 +57,8 @@ params:
     profileMode:
           enabled: true
           title: Hermine Van Coppenolle
-          subtitle: "I am a postdoctoral researcher at the Department of Land Economy at the University of Cambridge. My research focuses on global climate governance and international relations."
-          imageUrl: "picture.jpeg"
+          subtitle: "I am a postdoctoral researcher at the Department of Land Economy at the University of Cambridge and associate editor of the peer-reviewed journal *Climate Policy*. My research focuses on global climate governance and international relations."
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -76,9 +76,8 @@ params:
               url: tags/
             #- name: Archive
             #  url: archive/
-            #- name: GIES
-            #  url: https://www.ugent.be/ps/politiekewetenschappen/gies/en/team/phdresearchers/herminevancoppenolle.htm
-
+            - name: Climate Policy
+              url: https://www.tandfonline.com/journals/tcpo20
 
     socialIcons:
         #- name: CV
